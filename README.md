@@ -33,3 +33,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 * implement menus
 * add easily customizable opengraph images
 * enable comments
+* publish on Wordpress Extensions
